@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aicaekool.plntxt.com/sitemap.xml
